@@ -1,3 +1,7 @@
 from tasnime 
+<<<<<<< HEAD
 
 from rewan
+=======
+from shady
+>>>>>>> origin/testByShady
